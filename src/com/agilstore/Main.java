@@ -1,9 +1,4 @@
-
-import com.fasterxml.jackson.core.JsonProcessingException;
-
-// Ajeitar alguma formatação no terminal
-// Ver algum problema de lógica
-// Fazer README no repo
+package com.agilstore;
 
 import java.util.Scanner;
 

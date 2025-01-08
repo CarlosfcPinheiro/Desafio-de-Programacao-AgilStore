@@ -12,5 +12,12 @@
     "quantidadeEmEstoque" : 5,
     "preco" : 23.0,
     "id" : "1a24604d-d92e-4df4-91d0-a05b88010591"
+  },
+  "eb68abed-3c6a-4056-a4e5-0ce38bb4beae" : {
+    "nome" : "Carne",
+    "categoria" : "frios",
+    "quantidadeEmEstoque" : 6,
+    "preco" : 12.0,
+    "id" : "eb68abed-3c6a-4056-a4e5-0ce38bb4beae"
   }
 }
