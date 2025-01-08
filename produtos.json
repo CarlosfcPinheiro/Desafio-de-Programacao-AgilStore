@@ -1,0 +1,16 @@
+{
+  "4e8cf045-472e-4c93-8f33-52014450f060" : {
+    "nome" : "Leite",
+    "categoria" : "frios",
+    "quantidadeEmEstoque" : 2,
+    "preco" : 5.0,
+    "id" : "4e8cf045-472e-4c93-8f33-52014450f060"
+  },
+  "1a24604d-d92e-4df4-91d0-a05b88010591" : {
+    "nome" : "Peixe",
+    "categoria" : "frios",
+    "quantidadeEmEstoque" : 5,
+    "preco" : 23.0,
+    "id" : "1a24604d-d92e-4df4-91d0-a05b88010591"
+  }
+}
