@@ -15,7 +15,7 @@ O programa possui 3 classes principais:
 A seguir, seguem as instruções de como rodar o programa localmente.
 
 ### Requisitos
-- Java v23 ou superior (preferencialmente)
+- Java 21 (preferencialmente)
 - Maven
 - Git
 
